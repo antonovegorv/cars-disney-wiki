@@ -16,5 +16,8 @@
     "svelte": "^3.42.6",
     "tailwindcss": "^2.2.16"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "embla-carousel": "^5.0.1"
+  }
 }
