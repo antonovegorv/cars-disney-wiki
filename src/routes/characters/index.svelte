@@ -1,5 +1,5 @@
 <script>
-    import { characters } from '../../stores/character.store.js';
+    import { characters } from '../../stores/characters.store.js';
 
     import CharacterCard from '../../lib/CharacterCard.svelte';
 </script>
