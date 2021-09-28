@@ -9,9 +9,12 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
+    "autoprefixer": "^10.3.6",
     "eslint": "^7.32.0",
     "eslint-plugin-svelte3": "^3.2.1",
-    "svelte": "^3.42.6"
+    "postcss": "^8.3.8",
+    "svelte": "^3.42.6",
+    "tailwindcss": "^2.2.16"
   },
   "type": "module"
 }
