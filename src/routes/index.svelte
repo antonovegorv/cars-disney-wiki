@@ -1,5 +1,5 @@
 <script>
-	import { characters } from '../stores/character.store';
+	import { characters } from '../stores/characters.store';
 
 	import { onMount } from 'svelte';
 	import EmblaCarousel from 'embla-carousel';
