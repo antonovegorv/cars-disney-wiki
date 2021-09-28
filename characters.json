@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Молния Маккуин",
+        "info": "Главный герой",
+        "description": [
+            "",
+            ""
+        ],
+        "images": {
+            "avatar": "/images/characters/lightning-mcqueen/avatar",
+            "slides": [
+                "images/characters/lightning-mcqueen/slides/slide-01",
+                "images/characters/lightning-mcqueen/slides/slide-02",
+                "images/characters/lightning-mcqueen/slides/slide-03",
+                "images/characters/lightning-mcqueen/slides/slide-04",
+                "images/characters/lightning-mcqueen/slides/slide-05",
+                "images/characters/lightning-mcqueen/slides/slide-06",
+                "images/characters/lightning-mcqueen/slides/slide-07",
+                "images/characters/lightning-mcqueen/slides/slide-08",
+                "images/characters/lightning-mcqueen/slides/slide-09"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Салли Каррера",
+        "info": "Возлюбленная главного героя",
+        "description": [
+            "",
+            ""
+        ],
+        "images": {
+            "avatar": "/images/characters/sally-carrera/avatar",
+            "slides": [
+                "images/characters/sally-carrera/slides/slide-01",
+                "images/characters/sally-carrera/slides/slide-02",
+                "images/characters/sally-carrera/slides/slide-03",
+                "images/characters/sally-carrera/slides/slide-04",
+                "images/characters/sally-carrera/slides/slide-05"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Мэтр",
+        "info": "Лучший друг главного героя",
+        "description": [
+            "",
+            ""
+        ],
+        "images": {
+            "avatar": "/images/characters/mater/avatar",
+            "slides": [
+                "images/characters/mater/slides/slide-01",
+                "images/characters/mater/slides/slide-02",
+                "images/characters/mater/slides/slide-03",
+                "images/characters/mater/slides/slide-04",
+                "images/characters/mater/slides/slide-05",
+                "images/characters/mater/slides/slide-06",
+                "images/characters/mater/slides/slide-07"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Дог Хадсон",
+        "info": "Опытный наставник главного героя",
+        "description": [
+            "",
+            ""
+        ],
+        "images": {
+            "avatar": "/images/characters/doc-hudson/avatar",
+            "slides": [
+                "images/characters/doc-hudson/slides/slide-01",
+                "images/characters/doc-hudson/slides/slide-02",
+                "images/characters/doc-hudson/slides/slide-03",
+                "images/characters/doc-hudson/slides/slide-04",
+                "images/characters/doc-hudson/slides/slide-05"
+            ]
+        }
+    }
+]
