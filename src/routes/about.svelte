@@ -15,10 +15,10 @@
     <h3 class="mt-4 text-xl font-roboto">API Endpoints</h3>
     <ul>
         <li class="font-medium">
-            GET: <a href="/api/cars" class="font-mono bg-gray-200" target="_blank">cars-disney-wiki.herokuapp.com/api/cars</a> – выводит список всех персонажей
+            GET: <a href="/api/cars" class="font-mono bg-gray-200" target="_blank">cars-disney-wiki.herokuapp.com/api/characters</a> – выводит список всех персонажей
         </li>
         <li class="font-medium">
-            GET: <a href="/api/cars/0" class="font-mono bg-gray-200" target="_blank">cars-disney-wiki.herokuapp.com/api/cars/[id]</a> – выводит информацию о персонаже с заданным [id]
+            GET: <a href="/api/cars/0" class="font-mono bg-gray-200" target="_blank">cars-disney-wiki.herokuapp.com/api/characters/[id]</a> – выводит информацию о персонаже с заданным [id]
         </li>
     </ul>
 </section>
